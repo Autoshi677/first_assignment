@@ -78,15 +78,25 @@ body
 {
 	color: #707070;
 	font-size: 35px;
-	margin: 120px 0px 0px 100px;
+	margin: 100px 0px 0px 100px;
 }
 .secondSection_Rightpart p
 {
 	font-size: 20px;
 	color: #828282;
-	margin: 40px 100px 0px 100px;
+	margin: 20px 100px 40px 100px;
 	line-height: 1.5;
 	text-align: justify;
+}
+.secondSection_Rightpart a
+{
+	text-decoration: none;
+	background-image:linear-gradient(to right,  #FB9149,tomato);
+	color: white;
+	font-size: 20px; 
+	padding:20px 40px;
+	border-radius: 50px;
+	margin-left:100px;
 }
 /*Second Part End*/
 /*THird part start*/
